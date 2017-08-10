@@ -140,7 +140,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-        Acoustep\EntrustGui\EntrustGuiServiceProvider::class,
+        
         /*
          * Package Service Providers...
          */
